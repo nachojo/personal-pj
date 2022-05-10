@@ -6,7 +6,7 @@ import webbrowser
 
 
 def web():
-    #
+    webbrowser.open("https://naver.com")  # 테스트
     time_del()
 
 
